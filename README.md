@@ -1,5 +1,12 @@
 **README**
 
+**Flow Chart:**
+
+<p align="center">
+<img src="./FlowChart.png">
+</p>
+
+
 **Files**:
 
 MSVC2010 solution file: 3DReconstruction.sln
